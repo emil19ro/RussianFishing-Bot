@@ -3,3 +3,5 @@
 3. OBLIGATORIU AI NEVOIE DE FIR MULTICOLOR CARE ITI ARATA DISTANTA LA CARE CASTEZI ALTFEL BOTU NU FUNCTIONEAZA DELOC!!!!
 4.Seteaza keybind la fel ca in poza furnizata altfel botul nu va functiona
 5.daca e nevoie instaleaza python ca in poza data
+
+Rezolutie 1920x1080 obligatoriu altfel nu merge!!!
