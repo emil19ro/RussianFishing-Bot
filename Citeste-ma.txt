@@ -1,0 +1,3 @@
+1. Executa install.bat pentru a instala dependentele necesare utilizarii limbajuluy python si pentru a monitoriza ecranul si a automatiza task-ul de pescuit
+2. Dute langa locul in care vrei sa pescuiesti, ia undita in mana, da start executand unu dintre aceste tipuri de pescuit start jiging.bat, start pirking.bat, start Sea Spining.bat sau start spining.bat si asteapta sa apara consola in care scrie sa apesi L pentru start, cand vezi asta in consola, dute in joc si apasa L si botul va incepe sa pescuiasca singur.
+3. OBLIGATORIU AI NEVOIE DE FIR MULTICOLOR CARE ITI ARATA DISTANTA LA CARE CASTEZI ALTFEL BOTU NU FUNCTIONEAZA DELOC!!!!

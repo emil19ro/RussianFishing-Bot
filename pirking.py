@@ -7,7 +7,7 @@ from constantes import *
 async def sea():
     current_state = None
     tea_count = 0
-    max_tea = 0
+    max_tea = 2
     reel_closed = False
 
     while not keyboard.is_pressed('O'):
